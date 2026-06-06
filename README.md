@@ -1607,7 +1607,7 @@ An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a coll
 - [Etherpad](https://etherpad.org/) - Highly customizable online editor providing collaborative editing in real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code](https://github.com/ether/etherpad)) `Apache-2.0` `Nodejs/Docker`
 - [Grist](https://getgrist.com/) - Next-generation spreadsheet with relational structure, formula-based access control, and a portable, self-contained format (alternative to Airtable). ([Demo](https://docs.getgrist.com), [Source Code](https://github.com/gristlabs/grist-core)) `Apache-2.0` `Nodejs/Python/Docker`
 - [ONLYOFFICE](https://helpcenter.onlyoffice.com/faq/server-opensource.aspx) - Office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code](https://github.com/ONLYOFFICE/DocumentServer)) `AGPL-3.0` `Nodejs/Docker`
-
+- [Social & Utility Suite](https://chimeremezewisdom1001-max.github.io/ai-agency-portal/index.html) - A serverless, offline-capable 30-in-1 web utility suite containing scientific calculators, retail POS registers, and stock camera scanners. `HTML5`/`JavaScript`
 
 ### Password Managers
 
